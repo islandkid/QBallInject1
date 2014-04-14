@@ -1,0 +1,9 @@
+<beans>
+
+<bean id="questionService" class="root.services.question">
+</bean>
+	
+<bean id="userService" class="root.services.user">
+</bean>
+  
+</beans>
